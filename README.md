@@ -1,6 +1,7 @@
 # Quotes Of The Day
 
 git clone https://github.com/ranzis/quotes-of-the-day.git
+
 cd quotes-of-the-day
 
 
