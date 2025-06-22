@@ -8,6 +8,7 @@ cd quotes-of-the-day
 ## 2. Set up FavQs API Key
 
 Create a `.env` in `/backend`:
+
 FAVQS_API_KEY=your_api_key_here
 
 
