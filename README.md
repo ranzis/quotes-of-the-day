@@ -1,5 +1,46 @@
 # Quotes Of The Day
 
+git clone https://github.com/ranzis/quotes-of-the-day.git
+cd quotes-of-the-day
+
+
+## 2. Set up FavQs API Key
+
+Create a `.env` in `/backend`:
+FAVQS_API_KEY=your_api_key_here
+
+
+
+## 3. Install dependencies
+
+### Backend
+cd backend
+npm install
+```
+
+### Frontend
+
+cd ../frontend
+npm install
+
+```
+
+## 4. Run the app
+
+### Backend
+npm run dev
+```
+
+### Frontend
+
+npm run dev
+
+```
+
+Frontend will be available at http://localhost:5173
+
+
+
 ## Overview
 
 Production-ready fullstack web app for the TITAN recruitment process:
